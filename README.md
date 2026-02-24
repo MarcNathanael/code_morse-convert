@@ -1,5 +1,6 @@
 # Convertisseur Morse ↔ Texte en C 📟
 Un petit programme en C développé à l'occasion d'un exercice de manipulation de chaînes de caractères (strings) et de gestion de la mémoire. Il permet de traduire des phrases en code Morse et inversement.
+
       [ ALPHABET ]                       [ CODE MORSE ]
       "C CODE !"    ---- Convertir --->  -.-./ /---/-.././ /!
                     <---  Decoder  ----
