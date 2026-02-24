@@ -1,0 +1,11 @@
+Choisissez le convertiseur :
+         1 pour alphabet-->morse         2 pour morse-->alphabet
+votre choix : 1
+Entrer le mot a convertir : Hello Ubuntu !
+...././.-../.-../---/ /..-/-.../..-/-./-/..-/ /!
+
+Choisissez le convertiseur :
+         1 pour alphabet-->morse         2 pour morse-->alphabet
+votre choix : 2
+Entrer la morse a convertir : -.-./---/-.././ /--/---/.-./.../.
+c o d e   m o r s e
